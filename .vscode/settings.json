@@ -1,5 +1,0 @@
-{
-  "yaml.schemas": {
-    "https://json.schemastore.org/github-issue-forms.json": "file:///Users/jocmp/dev/capyreader/.github/ISSUE_TEMPLATE/*.yml"
-  }
-}
