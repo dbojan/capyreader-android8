@@ -6,6 +6,15 @@ last modified (utc): 2026-11-21-15-36-13
 instructions: on modify, update string.  
 Note: created 2026-11-21 to record the Android 8-9 compatibility changes. Not a complete project spec.  
 
+
+- fork from https://github.com/jocmp/capyreader, with android 8 and higher support.
+- newer sqlite lib added, since older device lack appropriate version
+- apl location (since it is bigger than 25 MB): https://drive.google.com/drive/folders/1vEOqcKNuHhUM2es591tybLCRHE-8g6GT?usp=sharing
+- to download sources, click on 7z file above, then on arrow pointing down (on the right part of the screen) to download it.
+- GPL-3.0 license, since that is the original app license
+
+
+
 # 1. Minimum Android version and compatibility
 
 ## 1.1 minSdk
