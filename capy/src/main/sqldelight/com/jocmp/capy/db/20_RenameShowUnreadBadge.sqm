@@ -1,2 +1,0 @@
-ALTER TABLE feeds RENAME COLUMN show_unread_counts TO show_unread_badge;
-ALTER TABLE saved_searches RENAME COLUMN show_unread_counts TO show_unread_badge;

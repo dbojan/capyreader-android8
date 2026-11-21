@@ -1,9 +1,0 @@
-import kotlin.Boolean;
-
-CREATE TABLE article_statuses (
-  article_id TEXT NOT NULL PRIMARY KEY REFERENCES articles(id),
-  read INTEGER AS Boolean NOT NULL DEFAULT 0,
-  starred INTEGER AS Boolean NOT NULL DEFAULT 0,
-  last_read_at INTEGER,
-  updated_at INTEGER NOT NULL
-);

@@ -1,2 +1,0 @@
-ALTER TABLE article_notifications
-ADD COLUMN dismissed_at INTEGER;
