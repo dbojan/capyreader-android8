@@ -1,3 +1,0 @@
-• Fix Mark Read On Scroll for single item feeds
-• Update copy on FreshRSS login screen
-• Update translations thanks to volunteers!

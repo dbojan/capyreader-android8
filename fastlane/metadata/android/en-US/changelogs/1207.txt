@@ -1,3 +1,0 @@
-Another hotfix release
-
-• Fix "mark as read" on scroll for end-of-list items

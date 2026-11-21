@@ -1,2 +1,0 @@
-• Increase concurrency for FreshRSS downloads
-• Update translations for Czech, Spanish, Latvian and Tamil thanks to volunteers!

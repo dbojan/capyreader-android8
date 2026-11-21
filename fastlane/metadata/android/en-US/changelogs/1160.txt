@@ -1,2 +1,0 @@
-• Fix padding in edit feed dialog
-• Clear read articles on refresh start and finish

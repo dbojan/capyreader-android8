@@ -1,7 +1,0 @@
-Happy New Year! Here's what's new:
-
-• Move theme selector back to the "Display & Appearance" menu in settings
-• Fix article link navigation for RSS-Bridge Telegram feeds
-• Fix tooltip overlap in article status bar
-• Fix unpinned toolbar animation thanks to a volunteer!
-• Update translations for Greek and German thanks to volunteers!

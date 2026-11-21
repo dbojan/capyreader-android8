@@ -1,2 +1,0 @@
-• Update animation on article select
-• Move theme selector to article page theme picker

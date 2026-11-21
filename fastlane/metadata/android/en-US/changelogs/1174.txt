@@ -1,2 +1,0 @@
-• Add fade animation when switching between feeds
-• Follow feed visibility for FreshRSS accounts
